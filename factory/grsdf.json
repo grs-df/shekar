@@ -1,0 +1,9 @@
+{
+	"name": "grsdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db9733d0-5c6c-493d-a5c4-8804c2e97194",
+		"tenantId": "e38205fe-a44a-48aa-b072-b9a649bc8eb8"
+	}
+}
